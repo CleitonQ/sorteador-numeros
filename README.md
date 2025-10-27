@@ -1,4 +1,5 @@
 Sorteador de Números
+![Sorteador de números](https://github.com/user-attachments/assets/ff7f883b-676a-4212-ac38-f688b282a1b6)
 
 Este projeto é um sorteador de números simples desenvolvido utilizando HTML, CSS e JavaScript. O objetivo é fornecer uma interface interativa onde os usuários podem selecionar um intervalo de números e quantos números deseja sortear. O sistema garantirá que não haja números repetidos e exibirá o resultado de forma dinâmica.
 
